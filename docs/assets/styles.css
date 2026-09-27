@@ -334,3 +334,13 @@ td.na { color: var(--ink-3); }
   body.printing #panel-report { display: block !important; }
   body.printing .print-name { display: block; margin: 0 0 4px; color: #8a1538; font-weight: 600; }
 }
+
+/* First visit disclaimer */
+.modal-overlay { position: fixed; inset: 0; z-index: 60; display: grid; place-items: center; padding: 1.4rem; background: color-mix(in srgb, #000 55%, transparent); }
+.modal { width: min(100%, 32rem); background: var(--surface); color: var(--ink); border: 1px solid var(--rule-2); border-radius: 12px; box-shadow: 0 22px 55px -26px rgba(0, 0, 0, 0.55); overflow: hidden; }
+.modal-edge { height: 8px; background: repeating-linear-gradient(90deg, var(--maroon) 0 12px, transparent 12px 24px); }
+.modal-inner { padding: 1.2rem 1.35rem 1.35rem; }
+.modal-title { margin: 0 0 0.6rem; font-size: 1.18rem; color: var(--ink); }
+.modal-body p { margin: 0 0 0.6rem; color: var(--ink-2); }
+.modal-body p:last-of-type { margin-bottom: 0; }
+.modal-actions { margin-top: 1.1rem; display: flex; justify-content: flex-end; }

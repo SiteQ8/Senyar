@@ -666,5 +666,21 @@
   "footer.standard": {
     "en": "Official Standard (PDF)",
     "ar": "نص المعيار الرسمي بصيغة PDF"
+  },
+  "popup.title": {
+    "en": "For learning and reference",
+    "ar": "لأغراض التعلم والاطلاع"
+  },
+  "popup.body1": {
+    "en": "Senyar is an independent, open source tool for working through Qatar's National Information Assurance Standard. It is not official, and it has no affiliation with the National Cyber Security Agency or any other authority.",
+    "ar": "سنيار أداة مستقلة مفتوحة المصدر للعمل على معيار تأمين المعلومات الوطنية في قطر وهي غير رسمية ولا صلة لها بالوكالة الوطنية للأمن السيبراني أو أي جهة أخرى."
+  },
+  "popup.body2": {
+    "en": "Rely on the official Standard for any compliance decision.",
+    "ar": "اعتمد على المعيار الرسمي في أي قرار امتثال."
+  },
+  "popup.ack": {
+    "en": "I understand",
+    "ar": "فهمت"
   }
 }

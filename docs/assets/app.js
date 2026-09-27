@@ -698,6 +698,27 @@ function bind() {
   window.addEventListener('afterprint', () => document.body.classList.remove('printing'));
 }
 
+function showDisclaimer() {
+  if (document.getElementById('disc-overlay')) return;
+  const ov = document.createElement('div');
+  ov.className = 'modal-overlay';
+  ov.id = 'disc-overlay';
+  ov.innerHTML = `<div class="modal" role="dialog" aria-modal="true" aria-labelledby="disc-title" aria-describedby="disc-body">`
+    + `<div class="modal-edge" aria-hidden="true"></div>`
+    + `<div class="modal-inner">`
+    + `<h2 class="modal-title" id="disc-title">${esc(t('popup.title'))}</h2>`
+    + `<div class="modal-body" id="disc-body"><p>${esc(t('popup.body1'))}</p><p>${esc(t('popup.body2'))}</p></div>`
+    + `<div class="modal-actions"><button type="button" id="disc-ack" class="btn">${esc(t('popup.ack'))}</button></div>`
+    + `</div></div>`;
+  const onKey = (e) => { if (e.key === 'Escape') close(); };
+  function close() { ov.remove(); document.removeEventListener('keydown', onKey); }
+  ov.addEventListener('click', (e) => { if (e.target === ov) close(); });
+  ov.querySelector('#disc-ack').addEventListener('click', close);
+  document.body.append(ov);
+  document.addEventListener('keydown', onKey);
+  ov.querySelector('#disc-ack').focus();
+}
+
 async function init() {
   const res = await fetch('data/bundle.json', { cache: 'no-cache' });
   if (!res.ok) throw new Error(`bundle ${res.status}`);
@@ -713,6 +734,7 @@ async function init() {
   renderAll();
   routeFromHash();
   document.body.classList.remove('loading');
+  showDisclaimer();
 }
 
 init().catch((e) => {
