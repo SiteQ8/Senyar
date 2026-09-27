@@ -1,0 +1,22 @@
+{
+  "name": "senyar",
+  "version": "1.0.0",
+  "description": "A working register for Qatar's National Information Assurance Standard v2.1, with an ISO/IEC 27001:2022 and NIST CSF 2.0 crosswalk, PDPPL obligations and an MCP server.",
+  "type": "module",
+  "bin": { "senyar": "mcp/server.mjs" },
+  "files": ["mcp/", "docs/assets/core.js", "docs/data/bundle.json", "README.md", "LICENSE", "NOTICE.md"],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs",
+    "preflight": "node scripts/preflight.mjs",
+    "mcp": "node mcp/server.mjs",
+    "set-name": "node scripts/set-name.mjs",
+    "verify-source": "python3 tools/verify_nia_source.py"
+  },
+  "engines": { "node": ">=18" },
+  "keywords": ["qatar", "ncsa", "nia", "information-assurance", "compliance", "iso27001", "nist-csf", "pdppl", "mcp", "arabic"],
+  "author": "Ali AlEnezi",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/SiteQ8/Senyar.git" },
+  "homepage": "https://senyar.3li.info"
+}

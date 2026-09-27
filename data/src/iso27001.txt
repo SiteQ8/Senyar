@@ -1,0 +1,120 @@
+# ISO/IEC 27001:2022 clauses and Annex A controls, by number and title, for cross-reference only.
+# Format: ref | English title | Arabic title
+4.1 | Understanding the organization and its context | فهم المؤسسة وسياقها
+4.2 | Understanding the needs and expectations of interested parties | فهم احتياجات الأطراف المعنية وتوقعاتها
+4.3 | Determining the scope of the information security management system | تحديد نطاق نظام إدارة أمن المعلومات
+4.4 | Information security management system | نظام إدارة أمن المعلومات
+5.1 | Leadership and commitment | القيادة والالتزام
+5.2 | Policy | السياسة
+5.3 | Organizational roles, responsibilities and authorities | الأدوار والمسؤوليات والصلاحيات في المؤسسة
+6.1.1 | Actions to address risks and opportunities: general | الإجراءات الخاصة بالمخاطر والفرص بوجه عام
+6.1.2 | Information security risk assessment | تقييم مخاطر أمن المعلومات
+6.1.3 | Information security risk treatment | معالجة مخاطر أمن المعلومات
+6.2 | Information security objectives and planning to achieve them | أهداف أمن المعلومات والتخطيط لتحقيقها
+6.3 | Planning of changes | التخطيط للتغييرات
+7.1 | Resources | الموارد
+7.2 | Competence | الكفاءة
+7.3 | Awareness | التوعية
+7.4 | Communication | التواصل
+7.5 | Documented information | المعلومات الموثقة
+8.1 | Operational planning and control | تخطيط العمليات وضبطها
+8.2 | Information security risk assessment (operation) | تقييم مخاطر أمن المعلومات في التشغيل
+8.3 | Information security risk treatment (operation) | معالجة مخاطر أمن المعلومات في التشغيل
+9.1 | Monitoring, measurement, analysis and evaluation | المراقبة والقياس والتحليل والتقييم
+9.2 | Internal audit | التدقيق الداخلي
+9.3 | Management review | مراجعة الإدارة
+10.1 | Continual improvement | التحسين المستمر
+10.2 | Nonconformity and corrective action | عدم المطابقة والإجراء التصحيحي
+A.5.1 | Policies for information security | سياسات أمن المعلومات
+A.5.2 | Information security roles and responsibilities | أدوار أمن المعلومات ومسؤولياته
+A.5.3 | Segregation of duties | فصل المهام
+A.5.4 | Management responsibilities | مسؤوليات الإدارة
+A.5.5 | Contact with authorities | التواصل مع الجهات المختصة
+A.5.6 | Contact with special interest groups | التواصل مع مجموعات الاهتمام الخاصة
+A.5.7 | Threat intelligence | معلومات التهديدات
+A.5.8 | Information security in project management | أمن المعلومات في إدارة المشاريع
+A.5.9 | Inventory of information and other associated assets | جرد المعلومات والأصول المرتبطة بها
+A.5.10 | Acceptable use of information and other associated assets | الاستخدام المقبول للمعلومات والأصول المرتبطة بها
+A.5.11 | Return of assets | إعادة الأصول
+A.5.12 | Classification of information | تصنيف المعلومات
+A.5.13 | Labelling of information | وسم المعلومات
+A.5.14 | Information transfer | نقل المعلومات
+A.5.15 | Access control | التحكم في الوصول
+A.5.16 | Identity management | إدارة الهويات
+A.5.17 | Authentication information | معلومات المصادقة
+A.5.18 | Access rights | حقوق الوصول
+A.5.19 | Information security in supplier relationships | أمن المعلومات في العلاقة مع الموردين
+A.5.20 | Addressing information security within supplier agreements | معالجة أمن المعلومات في اتفاقيات الموردين
+A.5.21 | Managing information security in the ICT supply chain | إدارة أمن المعلومات في سلسلة توريد تقنية المعلومات والاتصالات
+A.5.22 | Monitoring, review and change management of supplier services | مراقبة خدمات الموردين ومراجعتها وإدارة التغيير فيها
+A.5.23 | Information security for use of cloud services | أمن المعلومات عند استخدام الخدمات السحابية
+A.5.24 | Information security incident management planning and preparation | التخطيط والتحضير لإدارة حوادث أمن المعلومات
+A.5.25 | Assessment and decision on information security events | تقييم أحداث أمن المعلومات واتخاذ القرار بشأنها
+A.5.26 | Response to information security incidents | الاستجابة لحوادث أمن المعلومات
+A.5.27 | Learning from information security incidents | التعلم من حوادث أمن المعلومات
+A.5.28 | Collection of evidence | جمع الأدلة
+A.5.29 | Information security during disruption | أمن المعلومات أثناء الانقطاع
+A.5.30 | ICT readiness for business continuity | جاهزية تقنية المعلومات والاتصالات لاستمرارية الأعمال
+A.5.31 | Legal, statutory, regulatory and contractual requirements | المتطلبات القانونية والتشريعية والتنظيمية والتعاقدية
+A.5.32 | Intellectual property rights | حقوق الملكية الفكرية
+A.5.33 | Protection of records | حماية السجلات
+A.5.34 | Privacy and protection of PII | الخصوصية وحماية المعلومات الشخصية المعرِّفة
+A.5.35 | Independent review of information security | المراجعة المستقلة لأمن المعلومات
+A.5.36 | Compliance with policies, rules and standards for information security | الامتثال لسياسات أمن المعلومات وقواعده ومعاييره
+A.5.37 | Documented operating procedures | إجراءات التشغيل الموثقة
+A.6.1 | Screening | التحقق من الخلفية
+A.6.2 | Terms and conditions of employment | شروط التوظيف وأحكامه
+A.6.3 | Information security awareness, education and training | التوعية والتثقيف والتدريب في أمن المعلومات
+A.6.4 | Disciplinary process | الإجراء التأديبي
+A.6.5 | Responsibilities after termination or change of employment | المسؤوليات بعد انتهاء التوظيف أو تغييره
+A.6.6 | Confidentiality or non-disclosure agreements | اتفاقيات السرية أو عدم الإفصاح
+A.6.7 | Remote working | العمل عن بُعد
+A.6.8 | Information security event reporting | الإبلاغ عن أحداث أمن المعلومات
+A.7.1 | Physical security perimeters | محيطات الأمن المادي
+A.7.2 | Physical entry | الدخول المادي
+A.7.3 | Securing offices, rooms and facilities | تأمين المكاتب والغرف والمرافق
+A.7.4 | Physical security monitoring | مراقبة الأمن المادي
+A.7.5 | Protecting against physical and environmental threats | الحماية من التهديدات المادية والبيئية
+A.7.6 | Working in secure areas | العمل في المناطق الآمنة
+A.7.7 | Clear desk and clear screen | المكتب النظيف والشاشة النظيفة
+A.7.8 | Equipment siting and protection | وضع المعدات وحمايتها
+A.7.9 | Security of assets off-premises | أمن الأصول خارج المقر
+A.7.10 | Storage media | وسائط التخزين
+A.7.11 | Supporting utilities | المرافق الداعمة
+A.7.12 | Cabling security | أمن الكابلات
+A.7.13 | Equipment maintenance | صيانة المعدات
+A.7.14 | Secure disposal or re-use of equipment | التخلص الآمن من المعدات أو إعادة استخدامها
+A.8.1 | User endpoint devices | الأجهزة الطرفية للمستخدمين
+A.8.2 | Privileged access rights | حقوق الوصول المميزة
+A.8.3 | Information access restriction | تقييد الوصول إلى المعلومات
+A.8.4 | Access to source code | الوصول إلى الشفرة المصدرية
+A.8.5 | Secure authentication | المصادقة الآمنة
+A.8.6 | Capacity management | إدارة السعة
+A.8.7 | Protection against malware | الحماية من البرمجيات الخبيثة
+A.8.8 | Management of technical vulnerabilities | إدارة الثغرات الفنية
+A.8.9 | Configuration management | إدارة الإعدادات
+A.8.10 | Information deletion | حذف المعلومات
+A.8.11 | Data masking | إخفاء البيانات
+A.8.12 | Data leakage prevention | منع تسرب البيانات
+A.8.13 | Information backup | النسخ الاحتياطي للمعلومات
+A.8.14 | Redundancy of information processing facilities | التكرار في مرافق معالجة المعلومات
+A.8.15 | Logging | التسجيل
+A.8.16 | Monitoring activities | أنشطة المراقبة
+A.8.17 | Clock synchronization | مزامنة الساعات
+A.8.18 | Use of privileged utility programs | استخدام البرامج المساعدة ذات الصلاحيات المميزة
+A.8.19 | Installation of software on operational systems | تثبيت البرمجيات على الأنظمة التشغيلية
+A.8.20 | Networks security | أمن الشبكات
+A.8.21 | Security of network services | أمن خدمات الشبكة
+A.8.22 | Segregation of networks | فصل الشبكات
+A.8.23 | Web filtering | تصفية الويب
+A.8.24 | Use of cryptography | استخدام التشفير
+A.8.25 | Secure development life cycle | دورة حياة التطوير الآمن
+A.8.26 | Application security requirements | متطلبات أمن التطبيقات
+A.8.27 | Secure system architecture and engineering principles | مبادئ هندسة الأنظمة ومعماريتها الآمنة
+A.8.28 | Secure coding | البرمجة الآمنة
+A.8.29 | Security testing in development and acceptance | الاختبار الأمني أثناء التطوير والقبول
+A.8.30 | Outsourced development | التطوير المسند إلى جهات خارجية
+A.8.31 | Separation of development, test and production environments | فصل بيئات التطوير والاختبار والإنتاج
+A.8.32 | Change management | إدارة التغيير
+A.8.33 | Test information | معلومات الاختبار
+A.8.34 | Protection of information systems during audit testing | حماية أنظمة المعلومات أثناء اختبارات التدقيق

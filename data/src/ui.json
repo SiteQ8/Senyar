@@ -1,0 +1,670 @@
+{
+  "skip": {
+    "en": "Skip to content",
+    "ar": "انتقل إلى المحتوى"
+  },
+  "tagline": {
+    "en": "A working register for Qatar's National Information Assurance Standard",
+    "ar": "سجل عمل تفاعلي لمعيار تأمين المعلومات الوطنية في دولة قطر"
+  },
+  "tab.register": {
+    "en": "Register",
+    "ar": "السجل"
+  },
+  "tab.crosswalk": {
+    "en": "Crosswalk",
+    "ar": "المقابلة بين الأطر"
+  },
+  "tab.pdppl": {
+    "en": "Data privacy law",
+    "ar": "قانون حماية البيانات"
+  },
+  "tab.report": {
+    "en": "Report",
+    "ar": "التقرير"
+  },
+  "tab.about": {
+    "en": "About",
+    "ar": "عن الأداة"
+  },
+  "lang.switch": {
+    "en": "العربية",
+    "ar": "English"
+  },
+  "lang.switchLabel": {
+    "en": "Switch to Arabic",
+    "ar": "التبديل إلى الإنجليزية"
+  },
+  "scope.title": {
+    "en": "Rate the scope",
+    "ar": "صنّف النطاق"
+  },
+  "scope.help": {
+    "en": "Rate the assets in scope under the National Data Classification Policy. The Standard's requirements follow from these ratings.",
+    "ar": "صنّف الأصول المشمولة بالنطاق وفق سياسة تصنيف البيانات الوطنية لأن متطلبات المعيار تُبنى على هذا التصنيف."
+  },
+  "scope.aggregate": {
+    "en": "Aggregate level",
+    "ar": "المستوى الإجمالي"
+  },
+  "scope.label": {
+    "en": "Confidentiality label",
+    "ar": "وسم السرية"
+  },
+  "scope.requires": {
+    "en": "What the Standard requires",
+    "ar": "ما يتطلبه المعيار"
+  },
+  "scope.none": {
+    "en": "None at these ratings",
+    "ar": "لا يوجد عند هذا التصنيف"
+  },
+  "index.title": {
+    "en": "Domains",
+    "ar": "المجالات"
+  },
+  "index.all": {
+    "en": "All domains",
+    "ar": "جميع المجالات"
+  },
+  "search.label": {
+    "en": "Search",
+    "ar": "البحث"
+  },
+  "search.placeholder": {
+    "en": "Search controls, IDs or mapped references",
+    "ar": "ابحث في الضوابط أو المعرّفات أو المراجع المقابلة"
+  },
+  "filter.label": {
+    "en": "Show",
+    "ar": "عرض"
+  },
+  "filter.all": {
+    "en": "All",
+    "ar": "الكل"
+  },
+  "filter.baseline": {
+    "en": "Baseline",
+    "ar": "الأساسية"
+  },
+  "filter.additional": {
+    "en": "Additional",
+    "ar": "الإضافية"
+  },
+  "filter.open": {
+    "en": "Open gaps",
+    "ar": "الفجوات المفتوحة"
+  },
+  "filter.unassessed": {
+    "en": "Not assessed",
+    "ar": "غير المقيّمة"
+  },
+  "count.showing": {
+    "en": "Showing {n} of {total} controls",
+    "ar": "الضوابط المعروضة {n} من {total}"
+  },
+  "badge.baseline": {
+    "en": "Baseline",
+    "ar": "أساسي"
+  },
+  "badge.additional": {
+    "en": "Additional",
+    "ar": "إضافي"
+  },
+  "badge.items": {
+    "en": "Baseline items {items}",
+    "ar": "البنود الأساسية {items}"
+  },
+  "cond.applies": {
+    "en": "Applies to {cond}",
+    "ar": "ينطبق على {cond}"
+  },
+  "cond.on": {
+    "en": "Triggered by your ratings",
+    "ar": "ينطبق وفق تصنيفك"
+  },
+  "cond.off": {
+    "en": "Not triggered by your ratings",
+    "ar": "لا ينطبق وفق تصنيفك"
+  },
+  "cond.risk": {
+    "en": "Depends on the application's risk rating",
+    "ar": "يعتمد على تصنيف مخاطر التطبيق"
+  },
+  "cond.andAbove": {
+    "en": "{x} and above",
+    "ar": "{x} فأعلى"
+  },
+  "cond.or": {
+    "en": " or ",
+    "ar": " أو "
+  },
+  "cond.aggM": {
+    "en": "aggregate Medium or High",
+    "ar": "المستوى الإجمالي المتوسط أو المرتفع"
+  },
+  "cond.aggH": {
+    "en": "aggregate High",
+    "ar": "المستوى الإجمالي المرتفع"
+  },
+  "cond.riskM": {
+    "en": "Medium risk or higher",
+    "ar": "المخاطر المتوسطة فأعلى"
+  },
+  "status.label": {
+    "en": "Status",
+    "ar": "الحالة"
+  },
+  "status.unassessed": {
+    "en": "Not assessed",
+    "ar": "لم يُقيَّم"
+  },
+  "status.implemented": {
+    "en": "Implemented",
+    "ar": "مطبّق"
+  },
+  "status.partial": {
+    "en": "Partially implemented",
+    "ar": "مطبّق جزئيًا"
+  },
+  "status.missing": {
+    "en": "Not implemented",
+    "ar": "غير مطبّق"
+  },
+  "status.na": {
+    "en": "Not applicable",
+    "ar": "لا ينطبق"
+  },
+  "adopt.label": {
+    "en": "Adopted from risk assessment",
+    "ar": "معتمد وفق تقييم المخاطر"
+  },
+  "note.toggle": {
+    "en": "Evidence and notes",
+    "ar": "الأدلة والملاحظات"
+  },
+  "note.placeholder": {
+    "en": "Where is the evidence, and who owns it?",
+    "ar": "أين الدليل ومن المسؤول عنه؟"
+  },
+  "note.needReason": {
+    "en": "Record why this does not apply",
+    "ar": "سجّل سبب عدم الانطباق"
+  },
+  "official.page": {
+    "en": "Official text, page {p}",
+    "ar": "النص الرسمي صفحة {p}"
+  },
+  "source.note": {
+    "en": "Source note",
+    "ar": "ملاحظة على المصدر"
+  },
+  "refs.pdppl": {
+    "en": "PDPPL",
+    "ar": "قانون حماية البيانات"
+  },
+  "domain.na": {
+    "en": "This domain does not apply",
+    "ar": "هذا المجال غير منطبق"
+  },
+  "domain.naReason": {
+    "en": "Reason the domain does not apply",
+    "ar": "سبب عدم انطباق المجال"
+  },
+  "domain.additional": {
+    "en": "Additional controls adopted {n}, required {req}",
+    "ar": "الضوابط الإضافية المعتمدة {n} والمطلوب {req}"
+  },
+  "domain.baseline": {
+    "en": "Baseline implemented {n} of {total}",
+    "ar": "الضوابط الأساسية المطبقة {n} من {total}"
+  },
+  "empty.search": {
+    "en": "No controls match. Clear the search or pick another filter.",
+    "ar": "لا توجد ضوابط مطابقة لذا امسح البحث أو اختر عامل تصفية آخر."
+  },
+  "cw.intro": {
+    "en": "Find the NIA controls behind each ISO/IEC 27001:2022 clause or Annex A control and each NIST CSF 2.0 subcategory. The mapping is this project's own analysis, not an official NCSA mapping.",
+    "ar": "اعثر على ضوابط المعيار المقابلة لكل بند أو ضابط في ISO/IEC 27001:2022 ولكل فئة فرعية في NIST CSF 2.0 علمًا بأن هذه المقابلة اجتهاد من هذا المشروع وليست مقابلة رسمية من الوكالة الوطنية للأمن السيبراني."
+  },
+  "cw.filter": {
+    "en": "Filter by reference or title",
+    "ar": "صفِّ حسب المرجع أو العنوان"
+  },
+  "cw.clauses": {
+    "en": "Clauses 4 to 10",
+    "ar": "البنود من 4 إلى 10"
+  },
+  "cw.annex": {
+    "en": "Annex A controls",
+    "ar": "ضوابط الملحق A"
+  },
+  "cw.none": {
+    "en": "No NIA control mapped",
+    "ar": "لا يقابله أي ضابط في المعيار"
+  },
+  "cw.coverage": {
+    "en": "{n} of {total} references have NIA controls mapped",
+    "ar": "المراجع التي تقابلها ضوابط في المعيار {n} من {total}"
+  },
+  "pd.intro": {
+    "en": "Obligations under Law No. 13 of 2016 that sit beside the NIA Standard, summarized from the English text NCSA publishes. The Arabic text in the Official Gazette is authoritative.",
+    "ar": "التزامات القانون رقم (13) لسنة 2016 التي ترافق معيار تأمين المعلومات الوطنية ملخصة من النص الإنجليزي الذي تنشره الوكالة الوطنية للأمن السيبراني علمًا بأن النص العربي المنشور في الجريدة الرسمية هو المعتمد."
+  },
+  "pd.article": {
+    "en": "Article {a}",
+    "ar": "المادة {a}"
+  },
+  "pd.articles": {
+    "en": "Articles {a}",
+    "ar": "المواد {a}"
+  },
+  "pd.related": {
+    "en": "Related NIA controls",
+    "ar": "ضوابط المعيار ذات الصلة"
+  },
+  "pd.penalty.none": {
+    "en": "No specific fine in Articles 23 and 24",
+    "ar": "لا تحدد المادتان 23 و24 غرامة خاصة به"
+  },
+  "pd.guideline": {
+    "en": "NCSA guideline {ref}",
+    "ar": "إرشادات الوكالة {ref}"
+  },
+  "pd.timelines": {
+    "en": "Timelines at a glance",
+    "ar": "المهل الزمنية الرئيسية"
+  },
+  "pd.topic.lawful": {
+    "en": "Lawful basis",
+    "ar": "الأساس المشروع"
+  },
+  "pd.topic.rights": {
+    "en": "Individual rights",
+    "ar": "حقوق الأفراد"
+  },
+  "pd.topic.duties": {
+    "en": "Controller duties",
+    "ar": "واجبات المراقب"
+  },
+  "pd.topic.security": {
+    "en": "Security",
+    "ar": "الأمن"
+  },
+  "pd.topic.breach": {
+    "en": "Breaches",
+    "ar": "الخروقات"
+  },
+  "pd.topic.transfer": {
+    "en": "Transfers",
+    "ar": "نقل البيانات"
+  },
+  "pd.topic.special": {
+    "en": "Special data",
+    "ar": "البيانات الخاصة"
+  },
+  "pd.topic.children": {
+    "en": "Children",
+    "ar": "الأطفال"
+  },
+  "pd.topic.marketing": {
+    "en": "Marketing",
+    "ar": "التسويق"
+  },
+  "pd.topic.enforcement": {
+    "en": "Enforcement",
+    "ar": "الإنفاذ"
+  },
+  "rep.title": {
+    "en": "Readiness report",
+    "ar": "تقرير الجاهزية"
+  },
+  "rep.generated": {
+    "en": "Prepared {date}",
+    "ar": "أُعدّ في {date}"
+  },
+  "rep.scope": {
+    "en": "Scope ratings",
+    "ar": "تصنيف النطاق"
+  },
+  "rep.baselineDone": {
+    "en": "Baseline implemented",
+    "ar": "الضوابط الأساسية المطبقة"
+  },
+  "rep.baselineGaps": {
+    "en": "Open baseline gaps",
+    "ar": "فجوات الضوابط الأساسية"
+  },
+  "rep.shortDomains": {
+    "en": "Domains short of additional controls",
+    "ar": "مجالات تنقصها ضوابط إضافية"
+  },
+  "rep.unassessed": {
+    "en": "Baseline controls not yet assessed",
+    "ar": "ضوابط أساسية لم تُقيَّم بعد"
+  },
+  "rep.noBaseline": {
+    "en": "Ratings of 0 on all three attributes need no baseline controls.",
+    "ar": "لا يتطلب التصنيف 0 في المحددات الثلاثة أي ضوابط أساسية."
+  },
+  "rep.domains": {
+    "en": "By domain",
+    "ar": "حسب المجال"
+  },
+  "rep.col.domain": {
+    "en": "Domain",
+    "ar": "المجال"
+  },
+  "rep.col.baseline": {
+    "en": "Baseline implemented",
+    "ar": "الأساسية المطبقة"
+  },
+  "rep.col.additional": {
+    "en": "Additional adopted",
+    "ar": "الإضافية المعتمدة"
+  },
+  "rep.col.status": {
+    "en": "Status",
+    "ar": "الحالة"
+  },
+  "rep.domainNa": {
+    "en": "Not applicable",
+    "ar": "غير منطبق"
+  },
+  "rep.ok": {
+    "en": "On track",
+    "ar": "مستوفى"
+  },
+  "rep.attention": {
+    "en": "Needs work",
+    "ar": "يحتاج إلى عمل"
+  },
+  "rep.deadlines": {
+    "en": "Time-bound duties",
+    "ar": "التزامات مرتبطة بمهل زمنية"
+  },
+  "rep.gaps": {
+    "en": "Gaps to close, in priority order",
+    "ar": "الفجوات الواجب سدها حسب الأولوية"
+  },
+  "rep.noGaps": {
+    "en": "No open gaps at the current ratings.",
+    "ar": "لا توجد فجوات مفتوحة وفق التصنيف الحالي."
+  },
+  "rep.more": {
+    "en": "{n} more in the Excel export",
+    "ar": "والبقية في ملف Excel وعددها {n}"
+  },
+  "gap.baseline-missing": {
+    "en": "Baseline control not implemented",
+    "ar": "ضابط أساسي غير مطبّق"
+  },
+  "gap.baseline-partial": {
+    "en": "Baseline control partially implemented",
+    "ar": "ضابط أساسي مطبّق جزئيًا"
+  },
+  "gap.baseline-unassessed": {
+    "en": "Baseline control not assessed",
+    "ar": "ضابط أساسي لم يُقيَّم"
+  },
+  "gap.additional-shortfall": {
+    "en": "Adopt {n} more additional controls from the risk assessment",
+    "ar": "اعتمد ضوابط إضافية أخرى وفق تقييم المخاطر عددها {n}"
+  },
+  "gap.adopted-open": {
+    "en": "Adopted additional control not fully implemented",
+    "ar": "ضابط إضافي معتمد لم يُطبّق بالكامل"
+  },
+  "gap.na-unjustified": {
+    "en": "Marked not applicable without a reason",
+    "ar": "مصنّف غير منطبق دون ذكر السبب"
+  },
+  "gap.priority": {
+    "en": "Priority {p}",
+    "ar": "الأولوية {p}"
+  },
+  "exp.title": {
+    "en": "Export and files",
+    "ar": "التصدير والملفات"
+  },
+  "exp.xlsx": {
+    "en": "Export Statement of Applicability (Excel)",
+    "ar": "تصدير بيان قابلية التطبيق (Excel)"
+  },
+  "exp.print": {
+    "en": "Print report",
+    "ar": "طباعة التقرير"
+  },
+  "exp.json": {
+    "en": "Save assessment file",
+    "ar": "حفظ ملف التقييم"
+  },
+  "exp.open": {
+    "en": "Open assessment file",
+    "ar": "فتح ملف تقييم"
+  },
+  "exp.clear": {
+    "en": "Clear assessment",
+    "ar": "مسح التقييم"
+  },
+  "exp.clearConfirm": {
+    "en": "Clear every rating, status and note stored in this browser?",
+    "ar": "هل تريد مسح جميع التصنيفات والحالات والملاحظات المحفوظة في هذا المتصفح؟"
+  },
+  "exp.openConfirm": {
+    "en": "Replace the current assessment with this file?",
+    "ar": "هل تريد استبدال التقييم الحالي بهذا الملف؟"
+  },
+  "exp.badFile": {
+    "en": "This file is not an assessment from this tool.",
+    "ar": "هذا الملف ليس ملف تقييم صادرًا عن هذه الأداة."
+  },
+  "exp.privacy": {
+    "en": "Your assessment stays in this browser. Nothing is sent anywhere.",
+    "ar": "يبقى تقييمك في هذا المتصفح ولا يُرسل إلى أي جهة."
+  },
+  "exp.storageOff": {
+    "en": "This browser is not keeping data, so save the assessment file before you leave.",
+    "ar": "لا يحتفظ هذا المتصفح بالبيانات لذا احفظ ملف التقييم قبل المغادرة."
+  },
+  "flash.imported": {
+    "en": "Assessment loaded",
+    "ar": "تم تحميل التقييم"
+  },
+  "flash.cleared": {
+    "en": "Assessment cleared",
+    "ar": "تم مسح التقييم"
+  },
+  "xl.soa": {
+    "en": "SoA",
+    "ar": "بيان قابلية التطبيق"
+  },
+  "xl.summary": {
+    "en": "Summary",
+    "ar": "الملخص"
+  },
+  "xl.gaps": {
+    "en": "Gaps",
+    "ar": "الفجوات"
+  },
+  "xl.id": {
+    "en": "ID",
+    "ar": "المعرّف"
+  },
+  "xl.domain": {
+    "en": "Domain",
+    "ar": "المجال"
+  },
+  "xl.sub": {
+    "en": "Subsection",
+    "ar": "القسم الفرعي"
+  },
+  "xl.text": {
+    "en": "Summary",
+    "ar": "الملخص"
+  },
+  "xl.baseline": {
+    "en": "Baseline",
+    "ar": "أساسي"
+  },
+  "xl.condition": {
+    "en": "Condition",
+    "ar": "شرط الانطباق"
+  },
+  "xl.applicable": {
+    "en": "Applicable",
+    "ar": "منطبق"
+  },
+  "xl.adopted": {
+    "en": "Adopted additional",
+    "ar": "إضافي معتمد"
+  },
+  "xl.status": {
+    "en": "Status",
+    "ar": "الحالة"
+  },
+  "xl.notes": {
+    "en": "Justification or evidence",
+    "ar": "المبرر أو الدليل"
+  },
+  "xl.page": {
+    "en": "Official page",
+    "ar": "صفحة النص الرسمي"
+  },
+  "xl.yes": {
+    "en": "Yes",
+    "ar": "نعم"
+  },
+  "xl.no": {
+    "en": "No",
+    "ar": "لا"
+  },
+  "xl.item": {
+    "en": "Item",
+    "ar": "البند"
+  },
+  "xl.value": {
+    "en": "Value",
+    "ar": "القيمة"
+  },
+  "xl.priority": {
+    "en": "Priority",
+    "ar": "الأولوية"
+  },
+  "xl.gap": {
+    "en": "Gap",
+    "ar": "الفجوة"
+  },
+  "xl.ref": {
+    "en": "Reference",
+    "ar": "المرجع"
+  },
+  "about.title": {
+    "en": "About this tool",
+    "ar": "عن الأداة"
+  },
+  "about.what": {
+    "en": "An independent, open source tool for working through the National Information Assurance Standard v2.1 issued by Qatar's National Cyber Security Agency.",
+    "ar": "أداة مستقلة مفتوحة المصدر للعمل على معيار تأمين المعلومات الوطنية الإصدار 2.1 الصادر عن الوكالة الوطنية للأمن السيبراني في دولة قطر."
+  },
+  "about.how": {
+    "en": "Rate your scope, then work through each control. The tool applies the Standard's own rules: every baseline control once any rating reaches 1, and one or two additional controls in each applicable domain at ratings of 2 or 3.",
+    "ar": "صنّف نطاقك ثم انتقل إلى الضوابط واحدًا تلو الآخر فتطبق الأداة قواعد المعيار نفسه أي جميع الضوابط الأساسية متى بلغ أي تصنيف المستوى 1 وضابطًا أو ضابطين إضافيين في كل مجال منطبق عند المستويين 2 و3."
+  },
+  "about.source": {
+    "en": "The Standard belongs to NCSA. Control IDs, baseline marks and page numbers follow NCSA's official English text of May 2023. Summaries, crosswalks and notes are this project's own work and are kept apart from the official text.",
+    "ar": "تملك الوكالة الوطنية للأمن السيبراني هذا المعيار بينما تستند معرّفات الضوابط وعلامات الضوابط الأساسية وأرقام الصفحات في هذه الأداة إلى النص الإنجليزي الرسمي الصادر في مايو 2023 أما الملخصات والمقابلات والملاحظات فهي عمل خاص بهذا المشروع مفصول عن النص الرسمي."
+  },
+  "about.disclaimer": {
+    "en": "Not affiliated with or endorsed by NCSA. Use it as a working aid and rely on the official documents for compliance decisions.",
+    "ar": "لا ترتبط هذه الأداة بالوكالة الوطنية للأمن السيبراني ولا تحظى باعتمادها لذا استخدمها أداةً مساعدة واعتمد على الوثائق الرسمية في قرارات الامتثال."
+  },
+  "about.mcp": {
+    "en": "AI agents can query the same data through the bundled MCP server. The README explains the setup.",
+    "ar": "يمكن لوكلاء الذكاء الاصطناعي الاستعلام عن البيانات نفسها عبر خادم MCP المرفق ويشرح ملف README طريقة إعداده."
+  },
+  "about.sources": {
+    "en": "Official sources",
+    "ar": "المصادر الرسمية"
+  },
+  "about.notes": {
+    "en": "Notes on the official text",
+    "ar": "ملاحظات على النص الرسمي"
+  },
+  "about.appendix": {
+    "en": "The Appendix A physical control tables are referenced by page, not reproduced.",
+    "ar": "يُشار إلى جداول الضوابط المادية في الملحق (أ) برقم الصفحة ولا تُنقل نصوصها."
+  },
+  "about.code": {
+    "en": "Source code",
+    "ar": "الشفرة المصدرية"
+  },
+  "footer.license": {
+    "en": "Open source under the MIT licence. The NIA Standard belongs to NCSA.",
+    "ar": "مفتوح المصدر بترخيص MIT ومعيار تأمين المعلومات الوطنية ملك للوكالة الوطنية للأمن السيبراني."
+  },
+  "tabs.label": {
+    "en": "Sections",
+    "ar": "الأقسام"
+  },
+  "rep.of": {
+    "en": "of",
+    "ar": "من"
+  },
+  "mast.source": {
+    "en": "Based on the National Information Assurance Standard v2.1 issued by NCSA in May 2023",
+    "ar": "مبني على معيار تأمين المعلومات الوطنية الإصدار 2.1 الصادر عن الوكالة الوطنية للأمن السيبراني في مايو 2023"
+  },
+  "mini.readiness": {
+    "en": "Readiness",
+    "ar": "الجاهزية"
+  },
+  "mini.rate": {
+    "en": "Rate the scope to begin",
+    "ar": "ابدأ بتصنيف النطاق"
+  },
+  "mini.saved": {
+    "en": "Saved in this browser",
+    "ar": "محفوظ في هذا المتصفح"
+  },
+  "mini.unsaved": {
+    "en": "Browser storage is off, so work is not saved",
+    "ar": "تخزين المتصفح معطّل لذا لا يُحفظ العمل"
+  },
+  "scope.toImplement": {
+    "en": "To implement",
+    "ar": "المطلوب تطبيقه"
+  },
+  "scope.total": {
+    "en": "{b} baseline controls and at least {a} additional controls",
+    "ar": "{b} من الضوابط الأساسية و{a} على الأقل من الضوابط الإضافية"
+  },
+  "scope.totalBase": {
+    "en": "{b} baseline controls",
+    "ar": "{b} من الضوابط الأساسية"
+  },
+  "index.tip": {
+    "en": "Baseline implemented {n} of {total}",
+    "ar": "الضوابط الأساسية المطبقة {n} من {total}"
+  },
+  "index.tipAdd": {
+    "en": ", additional adopted {a} of {req}",
+    "ar": " والإضافية المعتمدة {a} من {req}"
+  },
+  "about.nameTitle": {
+    "en": "About the name",
+    "ar": "عن الاسم"
+  },
+  "about.name": {
+    "en": "Senyar (سنيار) is a word from the Gulf's maritime heritage, still alive in Qatar, for boats setting out to sea together. Meeting the Standard is a voyage every organisation in Qatar makes, and this register is open so they can make it together.",
+    "ar": "سنيار كلمة من التراث البحري في الخليج ما زالت حاضرة في قطر وتعني خروج السفن إلى البحر معًا وكذلك فإن الامتثال للمعيار رحلة تخوضها كل جهة في قطر لذا جاء هذا السجل مفتوحًا لتخوضها الجهات معًا."
+  },
+  "footer.version": {
+    "en": "Version {v}",
+    "ar": "الإصدار {v}"
+  },
+  "footer.standard": {
+    "en": "Official Standard (PDF)",
+    "ar": "نص المعيار الرسمي بصيغة PDF"
+  }
+}

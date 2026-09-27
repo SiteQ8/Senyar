@@ -1,0 +1,45 @@
+[
+  {
+    "id": "nia",
+    "en": "National Information Assurance Standard v2.1 (English), NCSA, May 2023",
+    "ar": "معيار تأمين المعلومات الوطنية الإصدار 2.1 باللغة الإنجليزية، الوكالة الوطنية للأمن السيبراني، مايو 2023",
+    "url": "https://ncsa.gov.qa/shared/document_library/94787172324409/33000/1928/1.0~eeb6a930-9a7f-4f8f-9843-e4e45404668e?mimetype=application/pdf&filename=NCSA_CSGA_%20National_Information_Assurance_Standard_En_V2.1%20(2).pdf",
+    "sha256": "4d5dad7099d42850b2f1bd38b6d1eff61844686a00fb2608043959f2d1743403"
+  },
+  {
+    "id": "dcp-en",
+    "en": "National Data Classification Policy v3.0 (English), NCSA",
+    "ar": "سياسة تصنيف البيانات الوطنية الإصدار 3.0 باللغة الإنجليزية، الوكالة الوطنية للأمن السيبراني",
+    "url": "https://ncsa.gov.qa/shared/document_library/94787172324409/33000/1924/1.0~c5cfe36a-2f12-414f-ab0b-3172d75cd140?mimetype=application/pdf&filename=NCSA_CSGA_%20National_Data_Classification_Policy_EN_V3.0%20(3).pdf"
+  },
+  {
+    "id": "dcp-ar",
+    "en": "National Data Classification Policy v3.0 (Arabic), NCSA",
+    "ar": "سياسة تصنيف البيانات الوطنية الإصدار 3.0 باللغة العربية، الوكالة الوطنية للأمن السيبراني",
+    "url": "https://ncsa.gov.qa/shared/document_library/94787172324409/33000/1925/1.0~79e40614-d0f3-4b54-848d-ad45bd807127?mimetype=application/pdf&filename=NCSA_CSGA_National_Data_Classification_Policy_AR_V3.0%20(2).pdf"
+  },
+  {
+    "id": "pdppl",
+    "en": "Law No. 13 of 2016 on Protecting Personal Data Privacy, English text published by NCSA (the Official Gazette Arabic text is authoritative)",
+    "ar": "القانون رقم (13) لسنة 2016 بشأن حماية خصوصية البيانات الشخصية، النص الإنجليزي المنشور لدى الوكالة، والنص العربي في الجريدة الرسمية هو المعتمد",
+    "url": "https://ncsa.gov.qa/shared/document_library/94787172324409/33000/2895/1.0~9c456709-128e-4095-9fc4-d0829aad9fc4?mimetype=application%2Fpdf&filename=Law.pdf"
+  },
+  {
+    "id": "PDPPL-02050217E",
+    "en": "Personal Data Breach Notifications, Guidelines for Regulated Entities, PDPPL-02050217E v2.0, September 2022",
+    "ar": "إرشادات الإخطار بخروقات البيانات الشخصية للجهات الخاضعة للتنظيم، PDPPL-02050217E الإصدار 2.0، سبتمبر 2022",
+    "url": "https://ncsa.gov.qa/shared/document_library/94787172324409/33000/8870/1.0~740b1248-e3a9-40e1-b66e-589091cc182a?mimetype=application%2Fpdf&filename=Personal+Data+Breach+Notifications+-+Guideline+for+Regulated+Entities+%284%29.pdf"
+  },
+  {
+    "id": "csf2",
+    "en": "NIST Cybersecurity Framework 2.0, NIST CSWP 29, February 2024",
+    "ar": "إطار الأمن السيبراني من NIST الإصدار 2.0، NIST CSWP 29، فبراير 2024",
+    "url": "https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf"
+  },
+  {
+    "id": "iso27001",
+    "en": "ISO/IEC 27001:2022, referenced by clause and control title only",
+    "ar": "ISO/IEC 27001:2022 ويُشار إليه برقم البند وعنوان الضابط فقط",
+    "url": "https://www.iso.org/standard/27001"
+  }
+]

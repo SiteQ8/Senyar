@@ -1,0 +1,33 @@
+{
+  "attributes": [
+    { "key": "C", "en": "Confidentiality", "ar": "السرية", "max": 4 },
+    { "key": "I", "en": "Integrity", "ar": "النزاهة", "max": 3 },
+    { "key": "A", "en": "Availability", "ar": "التوفر", "max": 3 }
+  ],
+  "labels": {
+    "C0": { "en": "Public", "ar": "عام" },
+    "C1": { "en": "Internal", "ar": "داخلي" },
+    "C2": { "en": "Restricted", "ar": "محدود الوصول" },
+    "C3": { "en": "Secret", "ar": "سري" },
+    "C4": { "en": "Top Secret", "ar": "سري للغاية" }
+  },
+  "aggregate": {
+    "L": { "en": "Low", "ar": "منخفض" },
+    "M": { "en": "Medium", "ar": "متوسط" },
+    "H": { "en": "High", "ar": "مرتفع" }
+  },
+  "matrix": {
+    "C0": { "I0": [null, "L", "M", "H"], "I1": ["L", "L", "M", "H"], "I2": ["M", "M", "M", "H"], "I3": ["H", "H", "H", "H"] },
+    "C1": { "I0": ["L", "L", "M", "H"], "I1": ["L", "L", "M", "H"], "I2": ["M", "M", "M", "H"], "I3": ["H", "H", "H", "H"] },
+    "C2": { "I0": ["M", "M", "M", "H"], "I1": ["M", "M", "M", "H"], "I2": ["M", "M", "M", "H"], "I3": ["H", "H", "H", "H"] },
+    "C3": { "I0": ["H", "H", "H", "H"], "I1": ["H", "H", "H", "H"], "I2": ["H", "H", "H", "H"], "I3": ["H", "H", "H", "H"] }
+  },
+  "rules": {
+    "none": { "en": "Ratings of 0 on all three attributes need no baseline controls, though some minimal controls may apply.", "ar": "لا تتطلب الأصول المصنفة بالمستوى 0 في المحددات الثلاثة ضوابط أساسية وقد تنطبق عليها بعض الضوابط الدنيا." },
+    "baseline": { "en": "A rating of 1 or more on any attribute requires every baseline control.", "ar": "يتطلب بلوغ المستوى 1 أو أعلى في أي محدد تطبيق جميع الضوابط الأساسية." },
+    "plus1": { "en": "A rating of 2 on any attribute also requires at least one additional control in each applicable domain, chosen through risk assessment.", "ar": "يتطلب بلوغ المستوى 2 في أي محدد أيضًا اختيار ضابط إضافي واحد على الأقل في كل مجال منطبق بناءً على تقييم المخاطر." },
+    "plus2": { "en": "A rating of 3 or higher on any attribute also requires at least two additional controls in each applicable domain, chosen through risk assessment.", "ar": "يتطلب بلوغ المستوى 3 أو أعلى في أي محدد أيضًا اختيار ضابطين إضافيين على الأقل في كل مجال منطبق بناءً على تقييم المخاطر." },
+    "priority": { "en": "Implementation priority follows the aggregate level, with High assets first.", "ar": "تتبع أولوية التطبيق المستوى الإجمالي فتبدأ بالأصول ذات المستوى المرتفع." },
+    "c4": { "en": "The policy's matrix stops at C3, so C4 is read on the C3 row and is always High.", "ar": "تتوقف مصفوفة السياسة عند C3 لذا يُقرأ المستوى C4 على صف C3 فيكون مرتفعًا دائمًا." }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "functions": [
+    { "id": "GV", "en": "Govern", "ar": "الحوكمة" },
+    { "id": "ID", "en": "Identify", "ar": "التحديد" },
+    { "id": "PR", "en": "Protect", "ar": "الحماية" },
+    { "id": "DE", "en": "Detect", "ar": "الاكتشاف" },
+    { "id": "RS", "en": "Respond", "ar": "الاستجابة" },
+    { "id": "RC", "en": "Recover", "ar": "التعافي" }
+  ],
+  "categories": [
+    { "id": "GV.OC", "en": "Organizational Context", "ar": "السياق المؤسسي" },
+    { "id": "GV.RM", "en": "Risk Management Strategy", "ar": "استراتيجية إدارة المخاطر" },
+    { "id": "GV.RR", "en": "Roles, Responsibilities, and Authorities", "ar": "الأدوار والمسؤوليات والصلاحيات" },
+    { "id": "GV.PO", "en": "Policy", "ar": "السياسات" },
+    { "id": "GV.OV", "en": "Oversight", "ar": "الإشراف" },
+    { "id": "GV.SC", "en": "Cybersecurity Supply Chain Risk Management", "ar": "إدارة مخاطر الأمن السيبراني في سلسلة الإمداد" },
+    { "id": "ID.AM", "en": "Asset Management", "ar": "إدارة الأصول" },
+    { "id": "ID.RA", "en": "Risk Assessment", "ar": "تقييم المخاطر" },
+    { "id": "ID.IM", "en": "Improvement", "ar": "التحسين" },
+    { "id": "PR.AA", "en": "Identity Management, Authentication, and Access Control", "ar": "إدارة الهويات والمصادقة والتحكم في الوصول" },
+    { "id": "PR.AT", "en": "Awareness and Training", "ar": "التوعية والتدريب" },
+    { "id": "PR.DS", "en": "Data Security", "ar": "أمن البيانات" },
+    { "id": "PR.PS", "en": "Platform Security", "ar": "أمن المنصات" },
+    { "id": "PR.IR", "en": "Technology Infrastructure Resilience", "ar": "مرونة البنية التحتية التقنية" },
+    { "id": "DE.CM", "en": "Continuous Monitoring", "ar": "المراقبة المستمرة" },
+    { "id": "DE.AE", "en": "Adverse Event Analysis", "ar": "تحليل الأحداث الضارة" },
+    { "id": "RS.MA", "en": "Incident Management", "ar": "إدارة الحوادث" },
+    { "id": "RS.AN", "en": "Incident Analysis", "ar": "تحليل الحوادث" },
+    { "id": "RS.CO", "en": "Incident Response Reporting and Communication", "ar": "الإبلاغ والتواصل في الاستجابة للحوادث" },
+    { "id": "RS.MI", "en": "Incident Mitigation", "ar": "احتواء الحوادث والحد من أثرها" },
+    { "id": "RC.RP", "en": "Incident Recovery Plan Execution", "ar": "تنفيذ خطة التعافي من الحوادث" },
+    { "id": "RC.CO", "en": "Incident Recovery Communication", "ar": "التواصل أثناء التعافي من الحوادث" }
+  ]
+}

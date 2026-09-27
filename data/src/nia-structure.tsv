@@ -1,0 +1,357 @@
+id	domain	sub	baseline	items	page	printed
+IG 1	IG		1		10	IG 1
+IG 2	IG		1		10	IG 2
+IG 3	IG		1		11	IG 3
+IG 4	IG		1		11	IG 4
+IG 5	IG		0		11	IG 5
+IG 6	IG		0		11	IG 6
+IG 7	IG		1		11	IG 7
+IG 8	IG		0		11	IG 8
+IG 9	IG		0		11	IG 9
+IG 10	IG		0		11	IG 10
+RM 1	RM		1		12	RM 1
+RM 2	RM		1		12	RM 2
+RM 3	RM		0		12	RM 3
+RM 4	RM		0		12	RM 4
+RM 5	RM		0		12	RM 5
+TM 1	TM		1		12	TM 1
+TM 2	TM		1		12	TM 2
+TM 3	TM		0		12	TM 3
+TM 4	TM		0		12	TM 4
+TM 5	TM		0		12	TM 5
+DL 1	DL		1		13	DL 1
+DL 2	DL		1		13	DL 2
+DL 3	DL		1		13	DL 3
+DL 4	DL		0		13	DL 4
+DL 5	DL		0		13	DL 5
+CM 1	CM		1		13	CM 1
+CM 2	CM		0		14	CM 2
+CM 3	CM		0		14	CM 3
+CM 4	CM		1		14	CM 4
+CM 5	CM		0		14	CM 5
+CM 6	CM		0		14	CM 6
+PS 1	PS		0		14	PS 1
+PS 2	PS		1		14	PS 2
+PS 3	PS		1		14	PS 3
+PS 4	PS		0		14	PS 4
+PS 5	PS		1		14	PS 5
+PS 6	PS		1		14	PS 6
+PS 7	PS		0		15	PS 7
+PS 8	PS		0		15	PS 8
+PS 9	PS		0		15	PS 9
+PS 10	PS		1		15	PS 10
+PS 11	PS		1		15	PS 11
+PS 12	PS		1		15	PS 12
+SA 1	SA		1		15	SA 1
+SA 2	SA		1		15	SA 2
+SA 3	SA		1		16	SA 3
+SA 4	SA		0		16	SA 4
+SA 5	SA		0		16	SA 5
+SA 6	SA		0		16	SA 6
+SA 7	SA		0		16	SA 7
+SA 8	SA		0		16	SA 8
+IM 1	IM		1		16	IM 1
+IM 2	IM		0		16	IM 2
+IM 3	IM		1		16	IM 3
+IM 4	IM		0		16	IM 4
+IM 5	IM		1		16	IM 5
+IM 6	IM		0		16	IM 6
+IM 7	IM		0		16	IM 7
+IM 8	IM		1		16	IM 8
+IM 9	IM		0		16	IM 9
+BC 1	BC		1		17	BC 1
+BC 2	BC		1		17	BC 2
+BC 3	BC		0		17	BC 3
+BC 4	BC		1		17	BC 4
+BC 5	BC		0		17	BC 5
+BC 6	BC		0		17	BC 6
+BC 7	BC		0		17	BC 7
+BC 8	BC		0		17	BC 8
+BC 9	BC		1		17	BC 9
+SM 1	SM		1		17	SM 1
+SM 2	SM		1		17	SM 2
+SM 3	SM		0		18	SM 3
+SM 4	SM		1		18	SM 4
+SM 5	SM		0		18	SM 5
+SM 6	SM		0		18	SM 6
+SM 7	SM		1		18	SM 7
+SM 8	SM		0		18	SM 8
+SM 9	SM		0		18	SM 9
+DR 1	DR		1		18	DR 1
+DR 2	DR		1		18	DR 2
+DR 3	DR		0		18	DR 3
+DR 4	DR		0		18	DR 4
+DR 5	DR		1		18	DR 5
+DR 6	DR		0		18	DR 6
+DC 1	DC		1		19	DC 1
+DC 2	DC		0		19	DC 2
+DC 3	DC		0		19	DC 3
+DC 4	DC		1		19	DC 4
+DC 5	DC		1		19	DC 5
+AC 1	AC		1		19	AC 1
+AC 2	AC		1		19	AC 2
+AC 3	AC		1		19	AC 3
+AC 4	AC		1		19	AC 4
+AC 5	AC		1		19	AC 5
+AC 6	AC		1		19	AC 6
+AC 7	AC		1		19	AC 7
+AC 8	AC		1		19	AC 8
+CS 1	CS	cabling	0		20	CS 1
+CS 2	CS	cabling	1		20	CS 2
+CS 3	CS	cabling	0		20	CS 3
+CS 4	CS	cabling	1		20	CS 4
+CS 5	CS	cabling	1		20	CS 5
+CS 6	CS	cabling	0		20	CS 6
+CS 7	CS	telephony	0		20	CS 7
+CS 8	CS	telephony	1		20	CS 8
+CS 9	CS	telephony	1		20	CS 9
+CS 10	CS	telephony	1		20	CS 10
+CS 11	CS	telephony	1		20	CS 11
+CS 12	CS	telephony	0		21	CS 12
+NS 1	NS	network-management	1		21	NS 1
+NS 2	NS	network-management	0		21	NS 2
+NS 3	NS	network-management	0		21	NS 3
+NS 4	NS	network-management	1		21	NS 4
+NS 5	NS	network-management	1		21	NS 5
+NS 6	NS	network-management	1		22	NS 6
+NS 7	NS	vlans	0		22	NS 7
+NS 8	NS	vlans	1		22	NS 8
+NS 9	NS	vlans	1		22	NS 9
+NS 10	NS	vlans	1		22	NS 10
+NS 11	NS	mfds	1		22	NS 11
+NS 12	NS	mfds	0	c	22	NS 12
+NS 13	NS	mfds	1		22	NS 13
+NS 14	NS	mfds	0		22	NS 14
+NS 15	NS	mfds	0		22	NS 15
+NS 16	NS	mfds	0		22	NS 16
+NS 17	NS	dns	0		23	NS 17
+NS 18	NS	dns	0		23	NS 18
+NS 19	NS	dns	0		23	NS 19
+NS 20	NS	dns	1		23	NS 20
+NS 21	NS	dns	1		23	NS 21
+NS 22	NS	dns	0		23	NS 22
+NS 23	NS	dns	1		23	NS 23
+NS 24	NS	internet	0		23	NS 24
+NS 25	NS	internet	1		23	NS 25
+NS 26	NS	internet	0		23	NS 26
+NS 27	NS	internet	1		23	NS 27
+NS 28	NS	email	0		23	NS 28
+NS 29	NS	email	0		23	NS 29
+NS 30	NS	email	1		23	NS 30
+NS 31	NS	email	1		24	NS 31
+NS 32	NS	email	0		24	NS 32
+NS 33	NS	wireless	1		24	NS 33
+NS 34	NS	wireless	1		24	NS 34
+NS 35	NS	wireless	1		24	NS 35
+NS 36	NS	wireless	1		24	NS 36
+NS 37	NS	wireless	0		24	NS 37
+NS 38	NS	wireless	0		24	NS 38
+NS 39	NS	wireless	1		24	NS 39
+NS 40	NS	wireless	0		24	NS 40
+NS 41	NS	wireless	1		24	NS 41
+NS 42	NS	wireless	0		24	NS 42
+NS 43	NS	wireless	0		24	NS 43
+NS 44	NS	clock	0		24	NS 44
+NS 45	NS	clock	1		24	NS 45
+NS 46	NS	clock	0		24	NS 46
+NS 47	NS	clock	0		25	NS 47
+NS 48	NS	vpn	0		25	NS 48
+NS 49	NS	vpn	0		25	NS 49
+NS 50	NS	vpn	1		25	NS 50
+NS 51	NS	vpn	0		25	NS 51
+NS 52	NS	vpn	0		25	NS 52
+NS 53	NS	voip	0		25	NS 53
+NS 54	NS	voip	0		25	NS 54
+NS 55	NS	voip	1		25	NS 55
+NS 56	NS	voip	1		25	NS 56
+NS 57	NS	voip	1		25	NS 57
+NS 58	NS	voip	1		25	NS 58
+NS 59	NS	voip	0		25	NS 59
+NS 60	NS	voip	0		25	NS 60
+NS 61	NS	voip	0		25	NS 61
+NS 62	NS	voip	0		25	NS 62
+NS 63	NS	voip	1		25	NS 63
+NS 64	NS	ipv6	1		25	NS 64
+NS 65	NS	ipv6	0		25	NS 65
+NS 66	NS	ipv6	0		25	NS 66
+IE 1	IE		0		26	IE 1
+IE 2	IE		1		26	IE 2
+IE 3	IE		0		26	IE 3
+IE 4	IE		0		26	IE 4
+IE 5	IE		0		26	IE 5
+IE 6	IE		0		26	IE 6
+IE 7	IE		1		26	IE 7
+IE 8	IE		1		26	IE 8
+IE 9	IE		0		26	IE 9
+IE 10	IE		1		26	IE 10
+IE 11	IE		0		27	IE 11
+IE 12	IE		0		27	IE 12
+IE 13	IE		1		27	IE 13
+GS 1	GS	general	0		27	GS 1
+GS 2	GS	general	0		27	GS 2
+GS 3	GS	general	0		27	GS 3
+GS 4	GS	general	1		27	GS 4
+GS 5	GS	general	0		27	GS 5
+GS 6	GS	general	0		27	GS 6
+GS 7	GS	general	0		27	GS 7
+GS 8	GS	general	1		28	GS 8
+GS 9	GS	general	1		28	GS 9
+GS 10	GS	general	0	a,d	28	GS 10
+GS 11	GS	export	0		28	GS 11
+GS 12	GS	export	0		28	GS 12
+GS 13	GS	export	1		28	GS 13
+GS 14	GS	export	1		28	GS 14
+GS 15	GS	import	0		28	GS 15
+GS 16	GS	import	1		28	GS 16
+GS 17	GS	import	1		28	GS 17
+PR 1	PR		0		29	PR 1
+PR 2	PR		0		29	PR 2
+PR 3	PR		1		29	PR 3
+PR 4	PR		0		29	PR 4
+PR 5	PR		1		29	PR 5
+PR 6	PR		0		29	PR 6
+PR 7	PR		0		29	PR 7
+PR 8	PR		1		29	PR 8
+PR 9	PR		0		29	PR 9
+SS 1	SS	development	0		29	SS 1
+SS 2	SS	development	1		29	SS 2
+SS 3	SS	development	0		30	SS 3
+SS 4	SS	development	1		30	SS 4
+SS 5	SS	development	0		30	SS 5
+SS 6	SS	development	1		30	SS 6
+SS 7	SS	development	0		30	SS 7
+SS 8	SS	development	0		30	SS 8
+SS 9	SS	development	0		30	SS 9
+SS 10	SS	development	1		30	SS 10
+SS 11	SS	development	0		30	SS 11
+SS 12	SS	applications	0		30	SS 12
+SS 13	SS	applications	1		30	SS 13
+SS 14	SS	applications	1		30	SS 14
+SS 15	SS	applications	0		30	SS 15
+SS 16	SS	applications	0		31	SS 16
+SS 17	SS	applications	0		31	SS 17
+SS 18	SS	applications	0		31	SS 18
+SS 19	SS	applications	1		31	SS 19
+SS 20	SS	applications	0		31	SS 20
+SS 21	SS	applications	1		31	SS 21
+SS 22	SS	web	1		31	SS 22
+SS 23	SS	web	0		31	SS 23
+SS 24	SS	web	0		31	SS 24
+SS 25	SS	web	0		31	SS 25
+SS 26	SS	web	0		31	SS 26
+SS 27	SS	database	0		31	SS 27
+SS 28	SS	database	0		31	SS 28
+SS 29	SS	database	1		31	SS 29
+SS 30	SS	database	0		31	SS 30
+SS 31	SS	database	1		31	SS 31
+SS 32	SS	database	0		31	SS 32
+SU 1	SU		0		32	SU 1
+SU 2	SU		0		32	SU 2
+SU 3	SU		0		32	SU 3
+SU 4	SU		0		32	SU 4
+SU 5	SU		1		32	SU 5
+SU 6	SU		0		32	SU 6
+SU 7	SU		0		32	SU 7
+SU 8	SU		1		32	SU 8
+SU 9	SU		0		32	SU 9
+SU 10	SU		0		32	SU 10
+SU 11	SU		1		32	SU 11
+MS 1	MS	labelling	0		33	MS 1
+MS 2	MS	labelling	0		33	MS 2
+MS 3	MS	labelling	1		33	MS 3
+MS 4	MS	labelling	0		33	MS 4
+MS 5	MS	labelling	0		33	MS 5
+MS 6	MS	labelling	0		33	MS 6
+MS 7	MS	labelling	1		33	MS 7
+MS 8	MS	labelling	0		33	MS 8
+MS 9	MS	sanitization	1		33	MS 9
+MS 10	MS	sanitization	0		33	MS 10
+MS 11	MS	sanitization	0		33	MS 11
+MS 12	MS	sanitization	1		33	MS 12
+MS 13	MS	sanitization	0		33	MS 13
+MS 14	MS	sanitization	0		34	MS 14
+MS 15	MS	repair	1		34	MS 15
+MS 16	MS	repair	0		34	MS 16
+MS 17	MS	destruction	1		34	MS 17
+MS 18	MS	destruction	1		34	MS 18
+MS 19	MS	destruction	1		34	MS 19
+MS 20	MS	destruction	0		34	MS 20
+MS 21	MS	destruction	1		34	MS 21
+AM 1	AM	general	0		34	AM 1
+AM 2	AM	general	0		34	AM 2
+AM 3	AM	general	1		34	AM 3
+AM 4	AM	general	0		34	AM 4
+AM 5	AM	general	0		34	AM 5
+AM 6	AM	general	1		35	AM 6
+AM 7	AM	general	0		35	AM 7
+AM 8	AM	general	1		35	AM 8
+AM 9	AM	general	1		35	AM 9
+AM 10	AM	general	1		35	AM 10
+AM 11	AM	general	1		35	AM 11
+AM 12	AM	authentication	0		35	AM 12
+AM 13	AM	authentication	0		35	AM 13
+AM 14	AM	authentication	0		35	AM 14
+AM 15	AM	authentication	1		35	AM 15
+AM 16	AM	authentication	1		35	AM 16
+AM 17	AM	authentication	1		35	AM 17
+AM 18	AM	authentication	1		36	AM 18
+AM 19	AM	authentication	1		36	AM 19
+AM 20	AM	authentication	1		36	AM 20
+AM 21	AM	authentication	1		36	AM 21
+AM 22	AM	authentication	1		36	AM 22
+AM 23	AM	authentication	1		36	AM 23
+AM 24	AM	authentication	0		36	AM 24
+AM 25	AM	authentication	0		36	AM 25
+AM 26	AM	authentication	1		36	AM 26
+AM 27	AM	authentication	1		36	AM 27
+AM 28	AM	system-access	0		36	AM 28
+AM 29	AM	system-access	1		36	AM 29
+AM 30	AM	system-access	1		36	AM 30
+AM 31	AM	privileged	0		36	AM 31
+AM 32	AM	privileged	0		36	AM 32
+AM 33	AM	privileged	1		37	AM 33
+AM 34	AM	privileged	1		37	AM 34
+AM 35	AM	remote	0		37	AM 35
+AM 36	AM	remote	1		37	AM 36
+AM 37	AM	remote	1		37	AM 37
+AM 38	AM	remote	0		37	AM 38
+AM 39	AM	remote	0		37	AM 39
+AM 40	AM	remote	1		37	AM 40
+AM 41	AM	remote	0		37	AM 41
+CY 1	CY		0		37	CY 1
+CY 2	CY		0		37	CY 2
+CY 3	CY		1		38	CY 3
+CY 4	CY		0		38	CY 4
+CY 5	CY		1		38	CY 5
+CY 6	CY		1		38	CY 6
+CY 7	CY		1		38	CY 7
+CY 8	CY		0		38	CY 8
+CY 9	CY		0		38	CY 9
+CY 10	CY		0		38	CY 10
+CY 11	CY		0		38	CY 11
+CY 12	CY		1		38	CY 12
+OS 1	OS		1		39	OS 1
+OS 2	OS		0		39	OS 2
+OS 3	OS		0		39	OS 3
+OS 4	OS		0		39	OS 4
+OS 5	OS		1		39	OS 5
+OS 6	OS		1		39	OS 6
+OS 7	OS		1		39	OS 7
+OS 8	OS		0		39	OS 8
+OS 9	OS		1		39	OS 9
+OS 10	OS		1		39	OS 10
+PH 1	PH		0		39	PH 2
+PH 2	PH		0		39	PH 2
+PH 3	PH		0		40	PH 3
+PH 4	PH		0		40	PH 4
+PH 5	PH		0		40	PH 5
+PH 6	PH		1		40	PH 6
+PH 7	PH		0		40	PH 7
+VL 1	VL		1		40	VL 1
+VL 2	VL		1		40	VL 2
+VL 3	VL		0		40	VL 3
+VL 4	VL		1		41	VL 4
+VL 5	VL		0		41	VL 5
+VL 6	VL		0		41	VL 6
+VL 7	VL		1		41	VL 7
+VL 8	VL		1		41	VL 8
